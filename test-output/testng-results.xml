@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-18T22:08:52 PST" name="Default suite" finished-at="2023-11-18T22:09:05 PST" duration-ms="13682">
+    <groups>
+    </groups>
+    <test started-at="2023-11-18T22:08:52 PST" name="Default test" finished-at="2023-11-18T22:09:05 PST" duration-ms="13682">
+      <class name="Myclass">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:Myclass@269f4bad]" started-at="2023-11-18T22:08:52 PST" name="Setup" finished-at="2023-11-18T22:08:52 PST" duration-ms="150" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="AddFourItems()[pri:1, instance:Myclass@269f4bad]" started-at="2023-11-18T22:08:52 PST" name="AddFourItems" finished-at="2023-11-18T22:08:57 PST" duration-ms="5187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddFourItems -->
+        <test-method signature="AddTwoItems()[pri:2, instance:Myclass@269f4bad]" started-at="2023-11-18T22:08:57 PST" name="AddTwoItems" finished-at="2023-11-18T22:09:01 PST" duration-ms="4013" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddTwoItems -->
+        <test-method signature="AddThreeItems()[pri:3, instance:Myclass@269f4bad]" started-at="2023-11-18T22:09:01 PST" name="AddThreeItems" finished-at="2023-11-18T22:09:05 PST" duration-ms="4224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddThreeItems -->
+        <test-method is-config="true" signature="Postting()[pri:0, instance:Myclass@269f4bad]" started-at="2023-11-18T22:09:05 PST" name="Postting" finished-at="2023-11-18T22:09:05 PST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Postting -->
+      </class> <!-- Myclass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
